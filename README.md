@@ -16,6 +16,8 @@ The primary objective is to develop an autonomous aircraft taxiing system that:
 
 This project is a collaborative effort by the Stanford AI4ALL Robotics team during the summer of 2023. Special thanks to John, Sydney, and Ola - y'all are awesome!
 
+![Stanford AI4ALL 2023 Robotics Team](https://cloud-h0rnf1tzk-hack-club-bot.vercel.app/0img_6788.png)
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
