@@ -1,10 +1,21 @@
-# Stanford AI4ALL Robotics Project
+# Stanford AI4ALL Robotics Project: Autonomous Aircraft Taxiing
 
-We explored autonomous aircraft taxiing in a simulated environment. The project focuses on the taxiing phase using the X-Plane 11 simulator for controlled testing. Autonomous aircraft contribute to climate change mitigation and address economic concerns, such as the pilot shortage. The system integrates data-driven techniques (neural networks) with classical controls (PID) to ensure high safety standards. The objective is to position the aircraft collinear with the runway's centerline using a camera on the nose of the plane, a neural network for estimation, and a PID controller for planning and control. The system performed well under different environmental conditions, but showed inconsistencies when dealing with shadows.
+This project explores autonomous aircraft taxiing in a simulated environment, utilizing the **X-Plane 11** simulator for controlled testing. The focus is on designing and testing a robust system to align the aircraft with the runway's centerline during the taxiing phase, integrating neural networks and classical control systems for accurate and safe operation.
 
-## Roadmap
+Autonomous aircraft systems hold the potential to mitigate climate change and address economic challenges like the global pilot shortage. By combining data-driven techniques (neural networks) with classical control strategies (PID controllers), the project aims to maintain high safety standards, even in varying environmental conditions.
 
-- [x] Upload all initial notebooks and Python code to repository
-- [x] Upload final project presentation to repository
-- [ ] Update all notebooks with working code
-- [ ] Upload any other material relevant to the programme
+## Project Objectives
+
+The primary objective is to develop an autonomous aircraft taxiing system that:
+
+1. **Accurately positions the aircraft on the runway's centerline** using live visual data from a simulated camera on the aircraft’s nose
+2. **Predicts key control parameters** (crosstrack error and heading error) using a neural network
+3. **Plans and executes control actions** to correct errors through a PID controller
+
+## Contributors
+
+This project is a collaborative effort by the Stanford AI4ALL Robotics team during the summer of 2023. Special thanks to John, Sydney, and Ola - y'all are awesome!
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
