@@ -1,4 +1,4 @@
-# Stanford AI4ALL Robotics Project: Autonomous Aircraft Taxiing
+# Stanford AI4ALL Robotics: Autonomous Aircraft Taxiing
 
 This project explores autonomous aircraft taxiing in a simulated environment, utilizing the **X-Plane 11** simulator for controlled testing. The focus is on designing and testing a robust system to align the aircraft with the runway's centerline during the taxiing phase, integrating neural networks and classical control systems for accurate and safe operation.
 
